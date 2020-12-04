@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+.ticket {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 110px;
+}
+select {
+    position: relative;
+    left: 20px;
+    bottom: 4px;
+}
+form button {
+    display: flex;
+    position: relative;
+    left: 650px;
+    bottom: 40px;
+    padding: 5px;
+    font-size: 15px;
+    color: black;
+}
+#reg {
+    font-size: 20px;
+    position: relative;
+    right: 300px;
+}

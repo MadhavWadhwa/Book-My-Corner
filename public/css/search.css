@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@900&family=Playfair+Display:wght@600&family=Rubik:wght@500&family=Sriracha&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Noto+Sans+TC:wght@900&family=Playfair+Display:wght@600&family=Rubik:wght@500&family=Sriracha&display=swap");
+.active-pink-2 input.form-control[type="text"]:focus:not([readonly]) {
+    border-bottom: 1px solid #f48fb1;
+    box-shadow: 0 1px 0 0 #f48fb1;
+}
+
+.all {
+    background-color: lightblue;
+    font-family: "Sriracha", cursive;
+    position: relative;
+    top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+
+form .fas {
+    position: relative;
+    right: 30px;
+    top: 20px;
+}
+
+input {
+    position: relative;
+    top: 20px;
+    padding: 20px;
+    height: 50px;
+    width: 1000px;
+}
+footer {
+    position: relative;
+    top: 400px;
+}
+footer img {
+    width: 130px;
+    height: 80px;
+}
+
+h1 .fab {
+    font-size: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

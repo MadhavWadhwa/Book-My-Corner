@@ -1,0 +1,142 @@
+body {
+    background-color: red;
+}
+footer {
+    position: absolute;
+    top: 1600px;
+}
+h2 {
+    text-align: center;
+    width: 100%;
+}
+body {
+    background-color: red;
+}
+#yw {
+    text-align: center;
+    font-weight: 500;
+    height: 50px;
+    padding: 5px;
+    color: #3695d8;
+    font-family: "Merriweather", serif;
+}
+.cont {
+    position: relative;
+    top: 50px;
+    width: 320px;
+    float: left;
+    margin: 0px 150px 10px 130px;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: white;
+    border-radius: 6px;
+    height: 180px;
+    display: flex;
+}
+
+.cont img {
+    width: 247px;
+    height: 145px;
+    margin-left: 40px;
+    border-radius: 7px;
+    border: 1px solid gainsboro;
+}
+
+.prop {
+    margin: 10px 40px 0px 40px;
+    width: 800px;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bolder;
+    position: relative;
+    bottom: 58px;
+    right: 15px;
+    border: none;
+    font-family: "Alata", sans-serif;
+}
+
+.datetime {
+    font-weight: 500;
+    font-size: 13px;
+    width: 300px;
+    position: relative;
+    bottom: 48px;
+    right: 15px;
+}
+.fas {
+    font-size: 200px;
+}
+.empw {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    bottom: 100px;
+}
+
+.price {
+    font-weight: 500;
+    font-size: 13px;
+    position: relative;
+    bottom: 38px;
+    right: 15px;
+}
+
+.prop .fas {
+    font-size: 15px;
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 50%;
+    padding: 5px;
+    cursor: pointer;
+    position: relative;
+    right: 68px;
+    color: red;
+    bottom: 4px;
+}
+
+#pm {
+    cursor: pointer;
+    font-size: 40px;
+    position: relative;
+    left: 200px;
+    top: 50px;
+    color: #c20000;
+}
+
+#pastfav {
+    position: relative;
+    font-size: 40px;
+    left: 250px;
+    bottom: 7px;
+    color: #3695d8;
+}
+
+.pwish {
+    position: relative;
+    top: 100px;
+    width: 320px;
+    float: left;
+    margin: 0px 150px 10px 130px;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: white;
+    border-radius: 6px;
+    height: 180px;
+    display: flex;
+}
+
+.pwish img {
+    width: 247px;
+    height: 145px;
+    margin-left: 40px;
+    border-radius: 7px;
+}
+
+.secondhalf {
+    margin-top: 25px;
+    float: left;
+}

@@ -1,0 +1,108 @@
+.logo {
+    height: 32px;
+    width: 120px;
+}
+
+.links {
+    position: relative;
+    margin: 2px 20px;
+    font-size: 16px;
+    font-weight: 500;
+}
+#list .links {
+    width: 117px;
+}
+#second {
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+}
+.links:hover {
+    color: white;
+}
+.link:hover {
+    color: white;
+    opacity: 0.8;
+    text-decoration: none;
+}
+
+span {
+    margin-left: 250px;
+}
+#event {
+    border: 1px solid white;
+    border-radius: 50px;
+    font-size: 12px;
+    padding: 17px;
+    cursor: pointer;
+    width: 130px;
+    position: relative;
+    bottom: 7px;
+}
+#event:hover {
+    background-color: white;
+    color: black;
+}
+#bar {
+    background-color: red;
+}
+
+label {
+    position: relative;
+    bottom: 2px;
+}
+#pos {
+    position: relative;
+    bottom: 4px;
+}
+label p {
+    position: relative;
+    top: 2px;
+}
+
+span .fas {
+    font-size: 20px;
+    position: relative;
+    top: 8px;
+    margin-left: 10px;
+}
+button .fas {
+    position: relative;
+    bottom: 100px;
+    right: 5px;
+}
+#out {
+    display: inline;
+    font-size: 18px;
+    color: black;
+}
+
+#login {
+    position: relative;
+    left: 0px;
+}
+#log {
+    position: relative;
+    top: 3px;
+    color: black;
+}
+.user {
+    position: relative;
+    color: white;
+}
+#whole {
+    position: relative;
+    bottom: 4px;
+}
+#name {
+    display: inline;
+    font-size: 12px;
+    position: relative;
+    top: 5px;
+}

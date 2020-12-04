@@ -1,0 +1,29 @@
+.cart-page {
+    margin: 60px auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cart-info {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+th {
+    text-align: left;
+    padding: 5px;
+    color: #fff;
+    background: #ff523b;
+}
+
+td {
+    padding: 10px 5px;
+}
+td img {
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+}

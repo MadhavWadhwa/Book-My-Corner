@@ -1,0 +1,141 @@
+.empw .fas {
+    font-size: 200px;
+}
+.empw {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    bottom: 100px;
+}
+
+#auth {
+    position: relative;
+    bottom: 10px;
+    left: 50px;
+    font-weight: 500;
+}
+
+.cartcom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+footer {
+    position: relative;
+    top: 500px;
+}
+.steps {
+    position: relative;
+    right: 200px;
+    top: 15px;
+}
+
+.cart {
+    margin: 30px auto;
+}
+.items {
+    position: relative;
+    left: 50px;
+}
+
+.cart .fas {
+    font-size: 15px;
+    color: crimson;
+    position: relative;
+    left: 2px;
+}
+
+th {
+    width: 220px;
+    background-color: #f7f7f7;
+    height: 40px;
+    font-size: 13px;
+    font-weight: 500;
+}
+#s2 {
+    position: relative;
+    right: 190px;
+}
+#heading {
+    color: #3695d8;
+    text-align: center;
+    font-size: 23px;
+}
+
+#qty {
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+
+.first {
+    position: relative;
+    left: 12px;
+}
+
+#qt {
+    position: relative;
+    left: 190px;
+    top: 5px;
+}
+.second {
+    position: relative;
+    left: 193px;
+    bottom: 10px;
+    font-weight: bold;
+}
+#q {
+    position: relative;
+    left: 100px;
+    top: 5px;
+}
+.third {
+    position: relative;
+    left: 110px;
+    font-size: 15px;
+    bottom: 10px;
+    font-weight: bold;
+}
+#dot {
+    position: relative;
+    left: 60px;
+    width: 92%;
+    border-top: 1px dashed #999;
+}
+#ename {
+    color: #3695d8;
+}
+.tot {
+    display: flex;
+    position: relative;
+    left: 540px;
+    bottom: 20px;
+}
+.tot label {
+    position: relative;
+    top: 18px;
+    left: 10px;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+}
+#pay {
+    padding: 10px;
+    background-color: rgb(41, 188, 255);
+    margin: 20px auto 0px auto;
+    border-radius: 5px;
+    outline: none;
+    width: 150px;
+    position: relative;
+    text-align: center;
+    color: rgb(12, 23, 47);
+    font-family: "Do Hyeon", sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+}
